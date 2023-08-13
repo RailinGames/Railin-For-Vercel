@@ -4,6 +4,8 @@
 <h2 align="center">Railin' For Vercel</h2>
 <p align="center">Best unblocked game site now on vercel 🍕</p>
 
+# WHEN RAILIN v2 COMES OUT YOU CAN HOST IT WITHOUT THIS :p
+
 # DMCA Takedown 
  If you want **YOUR** game taken down email me proof of ownership of the game and why you want it taken down! Don't just take down the website please! 
  
